@@ -30,7 +30,6 @@ Ce projet est une API REST pour la gestion d'une base de données de produits, r
 > Pour la modification, envoyez le même format que pour l'ajout (sans changer `numProduit`).
 ```json
 {
-  "numProduit": 1,
   "design": "Clavier rétroéclairé",
   "prix": 69.99,
   "quantite": 15
